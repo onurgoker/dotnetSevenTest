@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "/Users/ONUR/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ONUR/Documents/GitHub/dotnetSevenTest/MyApp.csproj",
-      "projectName": "MyApp",
-      "projectPath": "/Users/ONUR/Documents/GitHub/dotnetSevenTest/MyApp.csproj",
+      "projectUniqueName": "/Users/ONUR/Documents/GitHub/DotnetSix/DotnetSix.csproj",
+      "projectName": "DotnetSix",
+      "projectPath": "/Users/ONUR/Documents/GitHub/DotnetSix/DotnetSix.csproj",
       "packagesPath": "/Users/ONUR/.nuget/packages/",
-      "outputPath": "/Users/ONUR/Documents/GitHub/dotnetSevenTest/obj/",
+      "outputPath": "/Users/ONUR/Documents/GitHub/DotnetSix/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ONUR/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{18F2960B-45C6-424E-914D-234E54ACBD15}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../DotnetSix/Program.cs">
+    <Files>
+      <File FileName="../DotnetSix/Program.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyApp" expanded="True">
+            <Node name="DotnetSix" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DotnetSix FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
