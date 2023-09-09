@@ -1,0 +1,1 @@
+This project is downgraded from dotnet 7 to dotnet 6 for aws compatibility.
